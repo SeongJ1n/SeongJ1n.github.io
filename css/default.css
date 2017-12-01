@@ -74,9 +74,7 @@ img {
   clear: both; }
 
 .container {
-  max-width: 1110px;
-  padding-right: 15px;
-  padding-left: 15px;
+  max-width: 1020px;
   margin-right: auto;
   margin-left: auto; }
 
@@ -143,7 +141,7 @@ img {
   src: url(//t1.daumcdn.net/brunch/static/fonts/common/NanumMyeongjo-ExtraBold.eot?#iefix) format("embedded-opentype"), url(//t1.daumcdn.net/brunch/static/fonts/common/NanumMyeongjo-ExtraBold.woff2) format("woff2"), url(//t1.daumcdn.net/brunch/static/fonts/common/NanumMyeongjo-ExtraBold.woff) format("woff"), url(//t1.daumcdn.net/brunch/static/fonts/common/NanumMyeongjo-ExtraBold.ttf) format("truetype"); }
 body {
   font-family: 'Nanum Myeongjo', Sans-serif;
-  font-size: 14px;
+  font-size: 16px;
   letter-spacing: -.015em;
   word-spacing: .09em;
   word-break: keep-all; }
